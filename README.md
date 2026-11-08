@@ -1,6 +1,6 @@
 # 🛴 Urban Scooter - API, Mobile & Web Quality Assurance Testing Project
 
-This repository contains my Sprint 9 final project from the TripleTen QA Engineer Bootcamp. The project focused on analyzing, testing, and validating the functionality of **Urban Scooter**, a web application for electric scooter rentals.
+My Sprint project from the TripleTen QA Engineer. The project focused on analyzing, testing, and validating the functionality of **Urban Scooter**, a web application for electric scooter rentals.
 
 ## 🎯 Project Overview
 
